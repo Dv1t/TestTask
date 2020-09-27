@@ -4,37 +4,6 @@ using System.Xml.Serialization;
 
 namespace TestTask.DataClasses
 {
-    [XmlRoot("yml_catalog")]
-    public class Yml_catalog
-    {
-        [XmlElement("shop")]
-        public Shop shop { get; set; }
-    }
-    public class Shop
-    {
-        [XmlElement("offers")]
-        public Offers offers { get; set; }
-    }
-    public class Offers
-    {
-        [XmlElement("offer")]
-        public List<Offer> offer { get; set; }
-    }
-    public class categoryId
-    {
-        [XmlAttribute]
-        public string type { get; set; }
-        [XmlText]
-        public string Value { get; set; }
-    }
-    public class Hall
-    {
-        [XmlAttribute]
-        public string plan { get; set; }
-        [XmlText]
-        public string Value { get; set; }
-    }
-
     public class Offer
     {
         [XmlAttribute]
