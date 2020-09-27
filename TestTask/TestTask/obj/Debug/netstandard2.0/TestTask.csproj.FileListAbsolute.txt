@@ -10,5 +10,6 @@ D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.AssemblyIn
 D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.dll
 D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\ref\TestTask.dll
 D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.pdb
+D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\OfferPage.xaml.g.cs
 D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.csproj.CoreCompileInputs.cache
 D:\Study\TestTask\TestTask\TestTask\obj\Debug\netstandard2.0\XamlC.stamp

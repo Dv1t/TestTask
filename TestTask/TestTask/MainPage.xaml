@@ -4,9 +4,7 @@
              x:Class="TestTask.MainPage">
 
     <StackLayout>
-        <ListView x:Name="List"
-                  
-                  />
+        <ListView x:Name="List" ItemTapped="OnListViewItemTapped"/>
     </StackLayout>
 
 </ContentPage>

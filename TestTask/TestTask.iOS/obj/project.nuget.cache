@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "s3OjeHSQEwFFuDC9WwrJALzo5QNB8iC3UDC7S/OwKHDDqbuHZeiwwIv4AoGrMc8UY6WOmFou2owEJTknF6sFFw==",
+  "dgSpecHash": "6W8KZx2Oe5RltX0KCQmykAAGr9z1j+N7DIZwPE1TT4woQb4Uwb5EWetZ4Bv+MfJOsLcAa4iazKTLezLSyHkVQw==",
   "success": true,
   "projectFilePath": "D:\\Study\\TestTask\\TestTask\\TestTask.iOS\\TestTask.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Vit\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Vit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Vit\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Vit\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],

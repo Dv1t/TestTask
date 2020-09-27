@@ -117,6 +117,10 @@
               "target": "Package",
               "version": "[4.3.4, )"
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"

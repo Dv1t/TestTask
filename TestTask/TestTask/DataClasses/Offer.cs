@@ -117,9 +117,9 @@ namespace TestTask.DataClasses
         [XmlElement("date")]
         public string date { get; set; }
         [XmlElement("is_premiere")]
-        public bool is_premiere { get; set; }
+        public string is_premiere { get; set; }
         [XmlElement("is_kids")]
-        public bool is_kids { get; set; }
+        public string is_kids { get; set; }
 
         public override string ToString()
         {

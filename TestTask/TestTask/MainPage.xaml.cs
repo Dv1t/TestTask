@@ -11,7 +11,13 @@ namespace TestTask
         public MainPage()
         {
             InitializeComponent();
-            GetListService.GetListAsync(List);
+            SetListService.SetListAsync(List);
+        }
+       
+        async void OnListViewItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            Offer tappedItem = e.Item as Offer;
+            await Navigation.PushAsync(new OfferPage(tappedItem));
         }
     }
 }
